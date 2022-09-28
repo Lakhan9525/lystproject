@@ -1,6 +1,7 @@
 # lyst-clone project
 Lyst is a fashion technology company, and premium shopping app.
-Unit-3-project
+Unit-3-project Masai school project
+
 
  Hello everyone hope you are doing well, Today i'M writing about our construct week project. In our costruct week i have clone the website of The LYST.com for clonig out net we had use Html to make structure of our project CSS for styling and JavaScript for function like get data from database, serach function, sorting, filtter and many more function we have use
  About this project: 🙌
@@ -61,9 +62,13 @@ Contact Info Page
 Payment Pag
 
 About
-Lyst is a fashion technology company, and premium shopping app. This is a react-redux based project in which we have cloned an e-commerce shopping website.
+Lyst is a fashion technology company, and premium shopping app. This is a react-redux based project in which we have cloned an e-commerce shoppinwebsite.
 
-lyst-clone.netlify.app/
+
+
+ deploy:lyst-clone.netlify.app/
+ 
+ 
 Topics
 react redux ecommerce reactjs material-ui tailwindcss
 Resources
