@@ -4,7 +4,6 @@ Unit-3-project
 
  Hello everyone hope you are doing well, Today i'M writing about our construct week project. In our costruct week i have clone the website of The LYST.com for clonig out net we had use Html to make structure of our project CSS for styling and JavaScript for function like get data from database, serach function, sorting, filtter and many more function we have use
  About this project: 🙌
-This is a team project, built by us in the Construct Week - Unit 4 at Masai School.
 
 In this project we have tried to clone frontend of Lyst. Cart functionality has been added using browser's localstorage and Redux. Project design is responsive for all screen sizes. This project is an effort to implement learning at masai and improve our understanding of the React.
 
@@ -16,6 +15,8 @@ Masai School
 
 
 Pages & Features 👇
+
+
 Home Page: Nav Bar with drop downs, sliding banners & slider for Products.
 Sign-In: User authentication to check whether user email and password match with details existing in the database.
 Search: User can search for any of the products present in the website.
@@ -33,45 +34,31 @@ Material UI
 Screenshots :
 Home Page
 
-Screenshot (103)
-
-Screenshot (107)
 
 Search DropDown
 
-Screenshot (104)
 
-Navbar DropDown
-
-Screenshot (106)
+Navbar DropDo
 
 Signin Page
 
-Screenshot (109)
 
 Responsive Home Page
 
-Screenshot (108)
 
 Products Page
 
-Screenshot (111)
 
 Product Details Page
 
-Screenshot (112)
 
 Cart Page
 
-Screenshot (113)
 
 Contact Info Page
 
-Screenshot (114)
 
-Payment Page
-
-Screenshot (115)
+Payment Pag
 
 About
 Lyst is a fashion technology company, and premium shopping app. This is a react-redux based project in which we have cloned an e-commerce shopping website.
