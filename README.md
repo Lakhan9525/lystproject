@@ -34,39 +34,46 @@ Tailwind
 Material UI
 Screenshots :
 Home Page
+![Screenshot (61)](https://user-images.githubusercontent.com/102020617/192690983-f7a43f9d-5424-4a7e-a687-ebbed879cd5d.png)
+
 
 
 Search DropDown
+![Screenshot (62)](https://user-images.githubusercontent.com/102020617/192691014-e55df362-7265-4ebe-91e3-8db459ad7597.png)
+
 
 
 Navbar DropDo
+![Screenshot (61)](https://user-images.githubusercontent.com/102020617/192691052-884e9996-064c-4824-9a5f-a3a14a9fa2dc.png)
+
 
 Signin Page
+![Screenshot (69)](https://user-images.githubusercontent.com/102020617/192691079-dcb7f787-a2f0-447b-b11d-72f665061463.png)
 
-
-Responsive Home Page
 
 
 Products Page
+![Screenshot (66)](https://user-images.githubusercontent.com/102020617/192691164-56456fe9-fb8b-472d-8066-0fc7b98ee456.png)
+
 
 
 Product Details Page
+![Screenshot (67)](https://user-images.githubusercontent.com/102020617/192691218-da284cc4-20fd-46b1-a04e-8ad9c933480e.png)
+
 
 
 Cart Page
+![Screenshot (71)](https://user-images.githubusercontent.com/102020617/192691327-7cbe40e0-b49b-416d-b634-05fa4fc2ebc1.png)
 
 
-Contact Info Page
 
-
-Payment Pag
 
 About
 Lyst is a fashion technology company, and premium shopping app. This is a react-redux based project in which we have cloned an e-commerce shoppinwebsite.
 
 
 
- deploy:lyst-clone.netlify.app/
+
  
  
 Topics
